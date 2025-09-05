@@ -34,11 +34,7 @@ const projectsData = [
     {
         name:"currency conveter",
         link:"https://currency-converter-n2qb.vercel.app/",
-    },
-    {
-        name:"Diksha instagram",
-        link:"https://www.instagram.com/diksha.punyanii?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-    },
+    }
     // {
     //     name:"tic tac toe",
     //     link:"/",
