@@ -34,15 +34,19 @@ const projectsData = [
     {
         name:"currency conveter",
         link:"https://currency-converter-n2qb.vercel.app/",
+    },
+    {
+        name:"rock paper scissors",
+        link:"https://rock-paper-scissors-zeta-coral.vercel.app/",
+    },
+    {
+        name:"tic tac toe",
+        link:"https://tik-tac-toe-self.vercel.app/",
+    },
+    {
+        name:"memory card flip ",
+        link:"https://memory-card-flip-game-brown.vercel.app/",
     }
-    // {
-    //     name:"tic tac toe",
-    //     link:"/",
-    // },
-    // {
-    //     name:"memory card flip ",
-    //     link:"/",
-    // }
 ];
 
 for(let i = 0 ; i<projectsData.length;i++) {
