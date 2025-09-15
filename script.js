@@ -46,6 +46,11 @@ const projectsData = [
     {
         name:"memory card flip ",
         link:"https://memory-card-flip-game-brown.vercel.app/",
+    },
+    {
+        name:"currency converter React js",
+        link:"https://currency-converter-react-gilt.vercel.app/"
+
     }
 ];
 
