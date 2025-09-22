@@ -51,6 +51,11 @@ const projectsData = [
         name:"currency converter React js",
         link:"https://currency-converter-react-gilt.vercel.app/"
 
+    },
+    {
+        name:"Todo Manager",
+        link:"https://todo-manager-seven-wheat.vercel.app/"
+
     }
 ];
 
